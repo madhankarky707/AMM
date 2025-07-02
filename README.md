@@ -1,12 +1,12 @@
-# 🧮 Custom AMM DEX – Uniswap V2 Style (Solidity, Hardhat, Truffle, Ignition)
+# Custom AMM DEX – Uniswap V2 Style (Solidity, Hardhat, Truffle, Ignition)
 
-This project implements a simple Automated Market Maker (AMM) similar to Uniswap V2. It includes:
+This project implements a Automated Market Maker (AMM) similar to Uniswap V2. It includes:
 
-- 🏗️ AMMFactory: Creates and tracks AMM pairs
-- 🔄 AMMRouter: Handles liquidity addition/removal and token swaps
-- 💧 AMMPair: Core logic for token pools using constant product formula
-- 🪙 WETH9: Wrapped Ether contract
-- 🧪 ERC20Mock: For testing with mock tokens
+- AMMFactory: Creates and tracks AMM pairs
+- AMMRouter: Handles liquidity addition/removal and token swaps
+- AMMPair: Core logic for token pools using constant product formula
+- WETH9: Wrapped Ether contract
+- ERC20Mock: For testing with mock tokens
 
 ---
 
@@ -111,7 +111,3 @@ ignition/
 ```
 
 ---
-
-## 📄 License
-
-MIT
