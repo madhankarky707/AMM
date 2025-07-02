@@ -109,5 +109,3 @@ ignition/
   modules/
     - AMMModule.js  // Deployment script
 ```
-
----
