@@ -22,7 +22,7 @@ This project implements a Automated Market Maker (AMM) similar to Uniswap V2. It
 ## 📦 Setup
 
 ```bash
-git clone https://github.com/yourusername/amm-dex.git
+git clone https://github.com/madhankarky707/AMM.git
 cd amm-dex
 npm install
 ```
